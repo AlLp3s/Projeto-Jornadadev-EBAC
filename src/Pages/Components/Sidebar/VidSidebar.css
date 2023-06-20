@@ -1,0 +1,24 @@
+.vidsidebar {
+  position: absolute;
+  top: 35%;
+  right: 2px;
+  color: white;
+}
+.likeicon {
+  padding: 20px;
+  text-align: center;
+}
+.commention {
+  padding: 20px;
+  text-align: center;
+}
+.shareicon {
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 440px) {
+  .vidsidebar {
+    top: 30%;
+  }
+}
